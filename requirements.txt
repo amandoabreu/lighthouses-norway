@@ -1,0 +1,5 @@
+geopandas
+pandas
+matplotlib
+osmnx
+Pillow
